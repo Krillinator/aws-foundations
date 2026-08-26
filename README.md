@@ -5,7 +5,6 @@ A practical collection of notes, examples and visual explanations created while 
 This repository is an ongoing attempt to make AWS easier to understand.. not by memorizing services and terminology, but by understanding 
 **what they do, why they exist, and how they fit together**.
 
-Note:
 > These are personal learning notes, not official AWS documentation.
 
 ---
@@ -37,8 +36,8 @@ Suggested: images/notes-preview.png
 A clean screenshot of one of the document pages.
 -->
 
-![Learning notes preview](<img width="1536" height="1024" alt="aws-cloud-architecture-overview" src="https://github.com/user-attachments/assets/37ff28af-61bc-4a73-80ce-8ac68d0fa2ef" />
-)
+<img width="1536" height="1024" alt="aws-cloud-architecture-overview" src="https://github.com/user-attachments/assets/03536ff8-e258-4b37-b796-b03765b101e3" />
+
 
 The main learning document can be found in this repository:
 
