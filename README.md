@@ -41,5 +41,5 @@ A clean screenshot of one of the document pages.
 
 The main learning document can be found in this repository:
 
-`AWS_Foundations.docx` TBD
+[Open the AWS learning document](./AWS_Cloud_Practical_Introduction.pdf) Material 01 - Start here
 
