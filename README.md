@@ -24,9 +24,6 @@ Concepts are explained with:
 - comparisons
 - small mental models
 
-The focus is always:
-**What is it? → Why would I use it? → How does it fit into AWS?**
-
 ---
 
 ## Learning notes
@@ -43,4 +40,5 @@ The main learning document can be found in this repository:
 
 - [Open the AWS learning document](./AWS_Cloud_Practical_Introduction.pdf) Material 01 - Start here
 - [Open the AWS learning document](./AWS_Cloud_Practical_Introduction_Network.pdf) Material 02 - Networking
+- [Open the AWS learning document](./AWS_Cloud_Practical_Introduction_Pricing.pdf) Material 03 - Pricing
 
